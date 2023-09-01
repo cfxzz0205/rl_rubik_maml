@@ -1,0 +1,7 @@
+nose
+seaborn
+torch
+numpy
+tqdm
+tensorboard-pytorch
+learn2learn
